@@ -13,7 +13,7 @@
 - 💼 Ex-AIML Intern @ IIT Ropar
 - 🌱 Currently working on: [PrepWAI](https://prepwai.com) – AI-powered Interview & Learning Platform
 - 🧠 Exploring: AI Agents, RAG, LangGraph, Vector Embeddings, NLP
-- 🎤 Anchored events like VIBGYOR & International Youth Fest – *Hasda Nachda Punjab*
+- 🎤 Anchored events like Youth Fest & International fests like VIBGYOR
 - 💬 Ask me about: Full Stack Development, AI workflows, Student Leadership
 
 ---
