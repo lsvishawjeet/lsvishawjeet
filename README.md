@@ -22,11 +22,11 @@
 
 #### 💡 [PrepWAI – AI Interview & Learning Platform](https://prepwai.com)
 > An intelligent platform where candidates can give mock interviews with AI agents.  
-> 💡 AI Agent Workflows | LangGraph | Custom Vector DB | Real-time Feedback | PDF Chat
+> 💡 AI Agent Workflows | LangChain | Vector DB | Real-time Feedback | PDF Chat
 
-#### 🌐 AlumConnect – Advanced Alumni Portal
+#### 🌐 [AlumConnect – Advanced Alumni Portal](https://alumconnect.vercel.app)
 > A platform connecting students & alumni with features like chats, mentorship, job boards, events & more.  
-> 🔐 Role-based Auth | College Verified Access | Built with Node.js, MongoDB, Koyeb
+> 🔐 Role-based Auth | College Verified Access | Built with Next.js, MongoDB, Koyeb
 
 #### 🌱 AgritechAI – Smart Farming Assistant (Intel Program)
 > Personalized agri solutions with modern tech integration.  
@@ -39,19 +39,19 @@
 
 ### 🛠 Tech Stack
 
-- **Frontend**: React.js, Next.js, TailwindCSS, ShadCN
-- **Backend**: Node.js, Express.js, WebSockets, LangChain
-- **Databases**: MongoDB, Firebase, Vector DBs
-- **AI Tools**: OpenAI, Gemini, LangGraph, RAG
-- **Other**: Clerk Auth, Koyeb Deployment, Git, Postman
+- **Frontend**: React.js, Next.js, ReactNative, TailwindCSS, ShadCN
+- **Backend**: Node.js, Express.js, WebSockets
+- **Databases**: MongoDB, Vector DBs
+- **AI Tools**: OpenAI, Gemini, LangChain, RAG
+- **Other**: AWS, Clerk Auth, Koyeb Deployment, Git, Postman
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidhuvishaw&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhuvishaw&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lsvishawjeet&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsvishawjeet&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
 ---
@@ -59,8 +59,8 @@
 ### 📫 Let's Connect
 
 - 📧 Email: sidhuvishaw999@gmail.com  
-- 🔗 LinkedIn: [Vishawjeet Singh Sidhu](https://www.linkedin.com/in/vishawjeet-singh-sidhu/)  
-- 🌐 Portfolio (coming soon...)
+- 🔗 LinkedIn: [Vishawjeet Singh Sidhu](https://www.linkedin.com/in/vishawjeet-singh-sidhu/](https://www.linkedin.com/in/vishawjeets/))  
+- 🌐 Portfolio ([https://vsidhu.com])
 
 ---
 
