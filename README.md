@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vishawjeet Singh Sidhu 👋</h1>
+<h1 align="center">Hi, I'm Vishawjeet Sidhu 👋</h1>
 
 <p align="center">
   🚀 BTech CSE Student | 👨‍💻 Full Stack Developer | 🤖 AI Enthusiast | 🎤 Anchor & Leader<br>
