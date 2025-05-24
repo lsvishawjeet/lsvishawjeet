@@ -24,9 +24,9 @@
 > An intelligent platform where candidates can give mock interviews with AI agents.  
 > 💡 AI Agent Workflows | LangChain | Vector DB | Real-time Feedback | PDF Chat
 
-#### 🌐 [AlumConnect – Advanced Alumni Portal](https://alumconnect.vercel.app)
-> A platform connecting students & alumni with features like chats, mentorship, job boards, events & more.  
-> 🔐 Role-based Auth | College Verified Access | Built with Next.js, MongoDB, Koyeb
+#### 🌐 [Educlinic – Industry, college, studens, alumnis on one platform](https://educlinic.org)
+> A platform connecting industries, colleges, students, alumni with features like chats, mentorship, job boards, events & more.  
+> 🔐 Role-based Auth | College Verified Access | Built with Next.js, MongoDB
 
 #### 🌱 AgritechAI – Smart Farming Assistant (Intel Program)
 > Personalized agri solutions with modern tech integration.  
