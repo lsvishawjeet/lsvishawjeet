@@ -12,7 +12,7 @@
 - 🎓 BTech CSE | Baba Farid College of Engineering & Technology (2022–2026)
 - 💼 Ex-AIML Intern @ IIT Ropar
 - 🌱 Currently working on: [PrepWAI](https://prepwai.com) – AI-powered Interview & Learning Platform
-- 🧠 Exploring: AI Agents, RAG, LangGraph, Vector Embeddings, NLP
+- 🧠 Exploring: AI Agents, RAG, LangGraph, Vector Embeddings
 - 🎤 Anchored events like Youth Fest & International fests like VIBGYOR
 - 💬 Ask me about: Full Stack Development, AI workflows, Student Leadership
 
@@ -43,22 +43,13 @@
 - **Backend**: Node.js, Express.js, WebSockets
 - **Databases**: MongoDB, Vector DBs
 - **AI Tools**: OpenAI, Gemini, LangChain, RAG
-- **Other**: AWS, Clerk Auth, Koyeb Deployment, Git, Postman
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lsvishawjeet&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsvishawjeet&layout=compact&theme=tokyonight" alt="langs" />
-</p>
+- **Other**: AWS, Clerk Auth, Git, Postman
 
 ---
 
 ### 📫 Let's Connect
 
-- 📧 Email: sidhuvishaw999@gmail.com  
+- 📧 Email: contactvishaw@gmail.com  
 - 🔗 LinkedIn: [Vishawjeet Singh Sidhu](https://www.linkedin.com/in/vishawjeet-singh-sidhu/](https://www.linkedin.com/in/vishawjeets/))  
 - 🌐 Portfolio ([https://vsidhu.com])
 
